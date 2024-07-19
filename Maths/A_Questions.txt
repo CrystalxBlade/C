@@ -1,0 +1,39 @@
+Q. 1 area of rectangle
+
+Q. 2 area of a circle
+
+Q. 3 Swap
+
+Q. 4 Square root
+
+Q. 5 volume of cone => 1/3*pi*r*r*h;
+
+Q. 6 volume of cylinder => pi*r*r*h;
+
+Q. 7 volume of cube => r*r*r;
+
+Q. 8 area of triangle => 1/2*b*h;
+
+Q. 9 convert celsius to fahrenheit => C × 9/5 + 32
+
+Q. 10 convert fahrenheit to celsius => F − 32 × 5/9;
+
+Q. 11 convert miles to kilometer => 1.609*miles;
+
+Q. 12 simple interest => p*r*t/100;
+
+Q. 13 surface area of sphere => 4*pi*r*r;
+
+Q. 14 surface area of cylinder => 2*pi*r*r+2*pi*r*h;
+
+Q. 15 surface area of cube => 6*r*r;
+
+Q. 16 Palindrome number & print 1 to 100;
+
+Q. 17 Factorial;
+
+Q. 18 Fibonacci;
+
+Q. 19 prime number & print 1 to 100;
+
+Q. 20 perimeter of rectangle;
