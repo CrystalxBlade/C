@@ -4,7 +4,7 @@ Q. 2 area of a circle
 
 Q. 3 Swap
 
-Q. 4 Square root
+Q. 4 square root
 
 Q. 5 volume of cone => 1/3*pi*r*r*h;
 

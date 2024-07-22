@@ -10,6 +10,9 @@ int main()
 
     root = sqrt(num);
     printf("Square root of %d is %d", num, root);
+
+    return 0;
+
     /*
 
     int a=1,b=-3,c=-4,posRoot,negRoot;
@@ -21,5 +24,5 @@ int main()
     printf("negRoot =%d \n",negRoot);
 
     */
-    return 0;
+    
 }
